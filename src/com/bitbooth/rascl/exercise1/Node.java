@@ -1,4 +1,4 @@
-package com.bitbooth.rascl;
+package com.bitbooth.rascl.exercise1;
 
 import java.util.Vector;
 
